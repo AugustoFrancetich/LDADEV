@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+.font-8px {
+  font-size: 8px;
+}
+
+.font-10px {
+  font-size: 10px;
+}
+
+.font-12px {
+  font-size: 12px;
+}
+
+.font-14px {
+  font-size: 14px;
+}
+
+.font-16px {
+  font-size: 16px;
+}
+
+.font-24px {
+  font-size: 24px;
+}
+
+.font-weight-thin {
+  background-color: 100;
+}
+
+.font-weight-extra-light {
+  background-color: 200;
+}
+
+.font-weight-light {
+  background-color: 300;
+}
+
+.font-weight-regular {
+  background-color: 400;
+}
+
+.font-weight-medium {
+  background-color: 500;
+}
+
+.font-weight-semi-bold {
+  background-color: 600;
+}
+
+.font-weight-bold {
+  background-color: 700;
+}
+
+.font-weight-extra-bold {
+  background-color: 800;
+}
+
+.font-weight-black {
+  background-color: 900;
+}
+
+.font-color-rojo {
+  color: #ec1c24;
+}
+
+.font-color-bordo {
+  color: #99090D;
+}
+
+.font-color-azul {
+  color: #002554;
+}
+
+.font-color-gris {
+  color: #cecdbf;
+}
+
+.font-color-blanco {
+  color: #FFF;
+}
+
+.font-color-negro {
+  color: #000;
+}
+/*# sourceMappingURL=stye.css.map */

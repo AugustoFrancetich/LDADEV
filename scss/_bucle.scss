@@ -1,0 +1,20 @@
+@each $s in 8px, 10px, 12px, 14px, 16px, 24px{
+	.font-#{$s}{
+		font-size: $s;
+	}
+}
+@each $k, $v in $fuentes{
+	.font-weight-#{$k}{
+		font-weight: $v;
+	}
+}
+@each $k, $v in $colores{
+	.font-color-#{$k}{
+		color: $v;
+	}
+}
+@each $k, $v in $colores{
+	.bg-color-#{$k}{
+		background-color: $v;
+	}
+}
